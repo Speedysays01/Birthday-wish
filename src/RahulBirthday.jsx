@@ -172,6 +172,8 @@ const ChaosParty = () => {
        <div className="absolute top-1/2 right-10 z-30 animate-pulse">
         <Music size={60} className="text-purple-400" />
       </div>
+<p className='text-white self-center text-xl
+'>Best wishes from Surabhi!</p>
       
       {/* Marquee Text at bottom */}
       <div className="absolute bottom-0 left-0 w-full bg-yellow-300 text-black font-bold text-2xl overflow-hidden whitespace-nowrap py-2 z-40 border-t-4 border-red-600">
