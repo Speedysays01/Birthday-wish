@@ -14,7 +14,7 @@ const RahulBirthday = () => {
   };
 
   return (
-    <div className="w-full h-screen bg-black overflow-hidden font-sans select-none">
+    <div className="w-full h-100vh bg-black overflow-hidden font-sans select-none">
       {/* Hidden Audio Element */}
       <audio 
         ref={audioRef} 
